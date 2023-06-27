@@ -703,17 +703,30 @@ h3:hover {
             margin: 20px;
         }
 
+        @media (max-width: 358px){
+            .subscribe-container, .footer-main, .post-day, 
+            #content-post-day, #header-inicio, #icons-social-footer {
+                width: 358px;
+                max-width: 358px;
+            }
+
+
+            #container-load-text {
+                width: 358px;
+                max-width: 358px;
+            }
+
+            .index-artigos {
+                width: 358px;
+            }
+
+        }
         
+    
     }
 
     @media (max-width: 330px) {
-        #header-inicio {
-            width: 330px;
-        }
-        
-        .footer-main {
-            width: 330px;
-        }
+       
     }
 
 }
