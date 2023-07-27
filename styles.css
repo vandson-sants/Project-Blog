@@ -17,7 +17,8 @@
     background: rgb(159,165,193);
     background: radial-gradient(circle, rgba(159,165,193,1) 0%, rgba(255,228,196,1) 0%, rgb(211, 197, 209) 92%);
     z-index: 1;
-    /* background-image: url('https://i.pinimg.com/originals/57/b5/8c/57b58c6a3f92e02ecfe75c79c06aaa0e.jpg');
+    box-shadow: 0px -9px 85px 0px #000000;
+    /* background-image: url('');
     background-size: cover;
     background-position: 30% 50%;
     background-blend-mode:luminosity;
