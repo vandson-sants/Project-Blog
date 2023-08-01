@@ -238,6 +238,7 @@ a {
     left: 50px;
     width: 500px;
     height: 400px;
+    box-shadow: 0px 0px 8px 0px #000;
 }
 
 .box-info-img {
@@ -247,6 +248,7 @@ a {
     max-width: 100%;
     width: 400px;
     height: 200px;
+    box-shadow: 0px 0px 8px 0px #000;
     background-color: #f7d47e;
     bottom: 75px;
     left: 100px;
@@ -481,7 +483,7 @@ h3:hover {
 }
 
 .copyright {
-    font-size: 20px;
+    font-size: 17px;
     font-style: italic;
     margin-top: 30px;
 }
